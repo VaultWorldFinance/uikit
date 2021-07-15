@@ -8,6 +8,7 @@ export declare const variants: {
     readonly TEXTSUBTLE: "textSubtle";
     readonly BINANCE: "binance";
     readonly FAILURE: "failure";
+    readonly TAG: "tag";
 };
 export declare type Variants = typeof variants[keyof typeof variants];
 export interface TagProps extends SpaceProps {

@@ -32,6 +32,7 @@ export const baseColors = {
     borderColor: "#E9EAEB",
     card: "#FFFFFF",
     nav: "#FFFFFF",
+    tag: "#ae7de8",
     gradients: {
       bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     },
@@ -57,6 +58,7 @@ export const baseColors = {
     borderColor: "#524B63",
     card: "#121827",
     nav: "#204829",
+    tag: "#ae7de8",
     gradients: {
       bubblegum: "linear-gradient(139.73deg, #1f606f 0%, #164865 100%)",
     },

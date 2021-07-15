@@ -9,6 +9,7 @@ export const variants = {
   TEXTSUBTLE: "textSubtle",
   BINANCE: "binance",
   FAILURE: "failure",
+  TAG: "tag",
 } as const;
 
 export type Variants = typeof variants[keyof typeof variants];

@@ -53,6 +53,7 @@ export type Colors = {
   borderColor: string;
   card: string;
   nav: string;
+  tag: string;
 
   // Gradients
   gradients: Gradients;
