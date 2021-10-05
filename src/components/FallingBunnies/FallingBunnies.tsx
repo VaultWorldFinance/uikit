@@ -24,7 +24,7 @@ const Bunny = styled.div<BunnyProps>`
   display: inline-flex;
   position: fixed;
   top: 0;
-  left: ${({ position }) => `${position}vw`};
+  left: ${({ position }) => `${position}vaultw`};
   transform: translate3d(0, -100%, 0);
   user-select: none;
   pointer-events: none;
