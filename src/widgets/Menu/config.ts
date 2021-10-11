@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/vaultworld/status/1367218225310818308",
+    href: "https://twitter.com/world_vault/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -129,21 +129,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/vaultworldChat",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vaultworld ",
-      },
-    ],
+    href: "https://t.me/vaultworld",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vaultworld",
+    href: "https://twitter.com/world_vault",
   },
 ];
 
